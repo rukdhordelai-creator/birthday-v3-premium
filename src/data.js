@@ -1,7 +1,7 @@
 // ==========================
 // 1. Intro Screen
 // ==========================
-export const firstHeading = "A Cutiepie was born today, 20 years ago!"
+export const firstHeading = "A Cutiepie was born today, 18 years ago!"
 // Main heading text - Change this text as you like
 
 export const firstSubtext = "Yes, it’s YOU! A little surprise awaits..."
