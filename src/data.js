@@ -39,7 +39,8 @@ export const photos = [
 export const messageScreenHeading = "A Special Message"
 // Heading above card - Change this text as you like
 
-export const specialMessage = `Happy Birthday, Joshnaa! You deserve all the happiness, love, and smiles in the world today and always. You have this special way of making everything around you brighter, your smile, your kindness, and the way you make people feel truly cared for. I hope your day is filled with laughter, surprises, and moments that make your heart happy. You’re truly one of a kind, and I just want you to know how special you are. Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness, success, and all the sweet things life has to offer. 💗`
+export const specialMessage = `Happy Birthday, Joshnaa! You deserve all the happiness, love, and smiles in the world today and always. You have this special way of making everything around you brighter, your smile, your kindness, and the way you make people feel truly cared for. I hope your day is filled with laughter, surprises, and moments that make your heart happy. You’re truly one of a kind, and I just want you to know how special you are. Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness, success, and all the sweet things life has to offer. 💗 Missing you hurts, but loving you is worth everything. I’ll wait for you, always.I’ll choose you, always.No matter what, my heart willalways find you.Because you are my love.You are my maaa.
+And I love you sooo mushhhhh, forever and always. 💖 `
 // Main special message (you can edit freely)
 
 
